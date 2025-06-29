@@ -42,10 +42,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ganga09/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://leetcode.com/u/gans2005nov09/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="https://www.hackerrank.com/profile/gans2005nov09" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
-  <a href="https://www.codechef.com/users/ganga09" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="35"/></a>
-  <a href="https://www.hackerearth.com/@gans2005nov09/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" height="35"/></a>
 </p>
 
 ---
